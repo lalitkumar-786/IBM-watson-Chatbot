@@ -13,7 +13,6 @@ For running this app
 3.Click on the icon to import the workspace file.
 
 4.Just click on Try-it icon on the top-right corner.
-5.For the demo watch the video here https://drive.google.com/file/d/1o3ulyOjEaHaFrOSbcVpoEWyGAKE8RwpD/view....
 
 
 ---There you Go..!!!
