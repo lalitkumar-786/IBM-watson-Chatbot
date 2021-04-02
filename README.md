@@ -18,3 +18,6 @@ For running this app
 ---There you Go..!!!
 
 Chat with the smart doctor and explore the stuffs:)
+
+> To deploy the chatbot on FB/Twitter, refer to my blog at https://lalitkumar786.wordpress.com/2018/09/02/easily-deploy-ibm-watson-chatbot-on-fb/
+#####################################################################
